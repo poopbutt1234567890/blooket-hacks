@@ -15,7 +15,8 @@
                 let weight = Number(parseFloat(prompt('How much weight do you want?')));
                 reactHandler().stateNode.setState({ weight2: weight, weight });
         
-                alert('Weight set!');
+                alert('Weight set 1000000000
+                      !');
             };
 })();
 
@@ -52,3 +53,4 @@ function footer() {
 };
 
 footer();
+
